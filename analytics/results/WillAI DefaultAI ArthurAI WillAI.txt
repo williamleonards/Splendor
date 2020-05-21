@@ -1,0 +1,13007 @@
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 4
+MID 24
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 1
+Player 4: WillAI 1
+Decks
+LOW 21
+MID 23
+HIGH 8
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 16
+HIGH 16
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 22
+HIGH 7
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 3
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 23
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 15
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 19
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 1
+Decks
+LOW 4
+MID 24
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 22
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 0
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 6
+MID 26
+HIGH 7
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 21
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 20
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 17
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 11
+MID 20
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 15
+HIGH 20
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 14
+Player 3: ArthurAI 18
+Player 4: WillAI 1
+Decks
+LOW 10
+MID 13
+HIGH 16
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 18
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 10
+MID 19
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 5
+Decks
+LOW 3
+MID 22
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 23
+HIGH 9
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 26
+HIGH 11
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 20
+Player 4: WillAI 5
+Decks
+LOW 10
+MID 19
+HIGH 16
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 13
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 19
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 24
+MID 15
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 8
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 16
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 16
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 19
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 19
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 11
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 25
+HIGH 9
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 13
+Player 3: ArthurAI 20
+Player 4: WillAI 0
+Decks
+LOW 2
+MID 23
+HIGH 11
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 1
+Decks
+LOW 5
+MID 25
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 3
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 8
+MID 20
+HIGH 11
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 23
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 4
+Decks
+LOW 2
+MID 22
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 15
+HIGH 13
+Rounds
+33
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 18
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 19
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 17
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 21
+HIGH 11
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 7
+Player 3: ArthurAI 18
+Player 4: WillAI 1
+Decks
+LOW 7
+MID 22
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 8
+Player 4: WillAI 1
+Decks
+LOW 6
+MID 21
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 3
+Player 3: ArthurAI 16
+Player 4: WillAI 5
+Decks
+LOW 9
+MID 26
+HIGH 13
+Rounds
+23
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 16
+MID 18
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 4
+Player 3: ArthurAI 17
+Player 4: WillAI 2
+Decks
+LOW 14
+MID 20
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 19
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 17
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 23
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 5
+Decks
+LOW 9
+MID 24
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 17
+Player 3: ArthurAI 4
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 24
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 20
+Player 3: ArthurAI 14
+Player 4: WillAI 1
+Decks
+LOW 14
+MID 17
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 14
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 14
+MID 15
+HIGH 10
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 2
+Decks
+LOW 8
+MID 18
+HIGH 13
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 4
+Decks
+LOW 15
+MID 12
+HIGH 13
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 16
+HIGH 11
+Rounds
+34
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 12
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 21
+HIGH 8
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 16
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 19
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 14
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 24
+HIGH 18
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 19
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 13
+Player 4: WillAI 1
+Decks
+LOW 7
+MID 17
+HIGH 17
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 8
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 19
+HIGH 13
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 22
+HIGH 13
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 5
+Decks
+LOW 6
+MID 20
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 3
+Decks
+LOW 15
+MID 14
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 22
+HIGH 13
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 22
+HIGH 11
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 15
+Player 4: WillAI 1
+Decks
+LOW 13
+MID 22
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 3
+Decks
+LOW 9
+MID 22
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 8
+Player 3: ArthurAI 17
+Player 4: WillAI 2
+Decks
+LOW 4
+MID 22
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 7
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 4
+MID 24
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 21
+HIGH 15
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 18
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 15
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 4
+Decks
+LOW 13
+MID 17
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 3
+Decks
+LOW 15
+MID 16
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 19
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 16
+Player 4: WillAI 5
+Decks
+LOW 20
+MID 14
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 16
+MID 16
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 20
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 22
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 20
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 20
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 19
+HIGH 11
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 5
+Player 4: WillAI 3
+Decks
+LOW 19
+MID 16
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 22
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 21
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 20
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 20
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 25
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 11
+Player 4: WillAI 4
+Decks
+LOW 8
+MID 19
+HIGH 15
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 13
+Player 4: WillAI 3
+Decks
+LOW 6
+MID 18
+HIGH 17
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 23
+MID 17
+HIGH 9
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 20
+MID 17
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 14
+MID 22
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 21
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 23
+MID 17
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 15
+Player 4: WillAI 7
+Decks
+LOW 10
+MID 19
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 6
+Decks
+LOW 8
+MID 20
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 1
+Decks
+LOW 7
+MID 19
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 20
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 4
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 11
+MID 24
+HIGH 12
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 25
+HIGH 13
+Rounds
+24
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 18
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 14
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 18
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 9
+Player 2: DefaultAI 16
+Player 3: ArthurAI 13
+Player 4: WillAI 6
+Decks
+LOW 11
+MID 18
+HIGH 16
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 19
+MID 15
+HIGH 15
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 20
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 14
+MID 12
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 10
+Player 3: ArthurAI 18
+Player 4: WillAI 3
+Decks
+LOW 4
+MID 18
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 19
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 2
+Decks
+LOW 9
+MID 19
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 9
+Player 3: ArthurAI 18
+Player 4: WillAI 3
+Decks
+LOW 2
+MID 24
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 1
+Decks
+LOW 6
+MID 17
+HIGH 13
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 26
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 2
+Player 3: ArthurAI 15
+Player 4: WillAI 1
+Decks
+LOW 10
+MID 24
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 22
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 11
+Player 4: WillAI 2
+Decks
+LOW 6
+MID 22
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 20
+HIGH 13
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 23
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 19
+HIGH 17
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 21
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 4
+Decks
+LOW 12
+MID 17
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 15
+HIGH 13
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 15
+Player 4: WillAI 5
+Decks
+LOW 8
+MID 20
+HIGH 9
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 11
+MID 22
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 10
+Player 3: ArthurAI 17
+Player 4: WillAI 5
+Decks
+LOW 8
+MID 14
+HIGH 17
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 20
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 10
+MID 15
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 21
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 19
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 18
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 19
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 6
+Player 3: ArthurAI 19
+Player 4: WillAI 0
+Decks
+LOW 4
+MID 18
+HIGH 14
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 14
+Player 3: ArthurAI 18
+Player 4: WillAI 4
+Decks
+LOW 12
+MID 15
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 17
+Player 3: ArthurAI 4
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 16
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 19
+Player 4: WillAI 2
+Decks
+LOW 12
+MID 20
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 1
+Decks
+LOW 1
+MID 23
+HIGH 13
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 19
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 4
+MID 19
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 5
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 22
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 6
+Player 4: WillAI 5
+Decks
+LOW 6
+MID 20
+HIGH 19
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 16
+Player 4: WillAI 3
+Decks
+LOW 10
+MID 16
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 20
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 3
+Decks
+LOW 9
+MID 17
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 5
+Decks
+LOW 18
+MID 12
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 19
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 18
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 23
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 22
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 21
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 14
+Player 3: ArthurAI 18
+Player 4: WillAI 3
+Decks
+LOW 8
+MID 11
+HIGH 14
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 4
+Player 4: WillAI 5
+Decks
+LOW 9
+MID 21
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 11
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 16
+HIGH 14
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 18
+Player 4: WillAI 4
+Decks
+LOW 7
+MID 23
+HIGH 7
+Rounds
+37
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 1
+Decks
+LOW 9
+MID 19
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 16
+Player 4: WillAI 3
+Decks
+LOW 15
+MID 19
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 5
+Decks
+LOW 13
+MID 17
+HIGH 16
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 4
+Decks
+LOW 7
+MID 21
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 12
+Player 4: WillAI 3
+Decks
+LOW 11
+MID 17
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 4
+Player 4: WillAI 3
+Decks
+LOW 10
+MID 22
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 21
+HIGH 9
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 20
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 13
+MID 20
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 16
+Player 3: ArthurAI 8
+Player 4: WillAI 3
+Decks
+LOW 8
+MID 17
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 1
+Decks
+LOW 15
+MID 14
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 2
+Decks
+LOW 11
+MID 24
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 22
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 8
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 3
+Decks
+LOW 6
+MID 18
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 12
+MID 16
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 19
+HIGH 11
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 8
+Player 4: WillAI 2
+Decks
+LOW 6
+MID 16
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 8
+MID 20
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 18
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 20
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 5
+Player 3: ArthurAI 16
+Player 4: WillAI 3
+Decks
+LOW 9
+MID 19
+HIGH 18
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 16
+Player 4: WillAI 3
+Decks
+LOW 7
+MID 14
+HIGH 14
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 18
+HIGH 10
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 10
+Player 3: ArthurAI 16
+Player 4: WillAI 3
+Decks
+LOW 7
+MID 19
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 5
+Player 4: WillAI 3
+Decks
+LOW 11
+MID 22
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 17
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 3
+Decks
+LOW 14
+MID 15
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 2
+Player 4: WillAI 5
+Decks
+LOW 9
+MID 21
+HIGH 17
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 17
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 20
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 19
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 19
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 3
+Decks
+LOW 16
+MID 17
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 9
+Player 4: WillAI 5
+Decks
+LOW 15
+MID 19
+HIGH 9
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 10
+Player 4: WillAI 1
+Decks
+LOW 10
+MID 21
+HIGH 10
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 20
+HIGH 10
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 20
+Player 4: WillAI 1
+Decks
+LOW 4
+MID 23
+HIGH 8
+Rounds
+33
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 18
+Player 3: ArthurAI 14
+Player 4: WillAI 1
+Decks
+LOW 9
+MID 15
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 8
+Player 2: DefaultAI 15
+Player 3: ArthurAI 3
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 21
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 25
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 17
+Player 4: WillAI 3
+Decks
+LOW 23
+MID 18
+HIGH 8
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 3
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 19
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 24
+HIGH 11
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 18
+MID 17
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 23
+HIGH 12
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 10
+Player 2: DefaultAI 18
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 18
+HIGH 14
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 8
+Player 4: WillAI 1
+Decks
+LOW 11
+MID 21
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 23
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 18
+HIGH 16
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 20
+HIGH 13
+Rounds
+34
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 15
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 7
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 16
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 15
+HIGH 13
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 19
+Player 4: WillAI 1
+Decks
+LOW 11
+MID 22
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 5
+MID 17
+HIGH 11
+Rounds
+33
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 21
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 5
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 21
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 3
+Decks
+LOW 12
+MID 17
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 21
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 21
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 17
+Player 3: ArthurAI 1
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 26
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 11
+Player 4: WillAI 3
+Decks
+LOW 10
+MID 18
+HIGH 9
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 17
+Player 4: WillAI 2
+Decks
+LOW 11
+MID 17
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 10
+MID 17
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 7
+Decks
+LOW 15
+MID 18
+HIGH 16
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 23
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 2
+Decks
+LOW 9
+MID 17
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 14
+HIGH 18
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 17
+Player 4: WillAI 3
+Decks
+LOW 11
+MID 19
+HIGH 16
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 16
+Player 4: WillAI 3
+Decks
+LOW 16
+MID 19
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 1
+Decks
+LOW 6
+MID 17
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 4
+Decks
+LOW 6
+MID 23
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 11
+MID 23
+HIGH 14
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 24
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 13
+MID 21
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 3
+Decks
+LOW 18
+MID 12
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 14
+Player 3: ArthurAI 16
+Player 4: WillAI 6
+Decks
+LOW 12
+MID 19
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 22
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 11
+Player 4: WillAI 2
+Decks
+LOW 4
+MID 22
+HIGH 13
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 13
+Player 4: WillAI 3
+Decks
+LOW 8
+MID 19
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 13
+Player 3: ArthurAI 18
+Player 4: WillAI 5
+Decks
+LOW 4
+MID 20
+HIGH 14
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 4
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 20
+HIGH 15
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 15
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 20
+MID 17
+HIGH 8
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 20
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 25
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 24
+HIGH 13
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 2
+MID 21
+HIGH 13
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 27
+HIGH 11
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 14
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 18
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 20
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 21
+HIGH 15
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 4
+Decks
+LOW 11
+MID 18
+HIGH 18
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 1
+Decks
+LOW 13
+MID 16
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 11
+Player 3: ArthurAI 18
+Player 4: WillAI 9
+Decks
+LOW 8
+MID 17
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 17
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 9
+MID 22
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 4
+MID 24
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 15
+Player 3: ArthurAI 4
+Player 4: WillAI 4
+Decks
+LOW 15
+MID 23
+HIGH 10
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 18
+Player 4: WillAI 1
+Decks
+LOW 5
+MID 22
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 9
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 18
+HIGH 18
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 11
+Player 4: WillAI 1
+Decks
+LOW 13
+MID 25
+HIGH 6
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 12
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 20
+HIGH 16
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 16
+Player 3: ArthurAI 14
+Player 4: WillAI 2
+Decks
+LOW 15
+MID 12
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 3
+Player 4: WillAI 3
+Decks
+LOW 15
+MID 20
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 16
+MID 17
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 19
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 5
+Decks
+LOW 18
+MID 18
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 19
+Player 3: ArthurAI 14
+Player 4: WillAI 2
+Decks
+LOW 2
+MID 16
+HIGH 13
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 4
+Player 4: WillAI 0
+Decks
+LOW 4
+MID 26
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 17
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 16
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 17
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 19
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 4
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 23
+HIGH 11
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 2
+Decks
+LOW 16
+MID 14
+HIGH 12
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 4
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 19
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 11
+MID 18
+HIGH 19
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 11
+MID 16
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 16
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 9
+Player 4: WillAI 4
+Decks
+LOW 15
+MID 18
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 20
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 15
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 18
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 4
+Player 4: WillAI 8
+Decks
+LOW 14
+MID 17
+HIGH 16
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 10
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 15
+HIGH 17
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 10
+Player 4: WillAI 2
+Decks
+LOW 17
+MID 15
+HIGH 19
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 20
+MID 22
+HIGH 10
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 6
+Player 4: WillAI 1
+Decks
+LOW 2
+MID 25
+HIGH 8
+Rounds
+34
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 7
+MID 19
+HIGH 8
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 20
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 18
+Player 4: WillAI 2
+Decks
+LOW 12
+MID 18
+HIGH 10
+Rounds
+35
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 10
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 19
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 0
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 23
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 20
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 2
+MID 20
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 22
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 14
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 11
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 22
+HIGH 8
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 7
+Decks
+LOW 10
+MID 18
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 10
+MID 17
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 18
+MID 21
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 10
+Player 3: ArthurAI 17
+Player 4: WillAI 5
+Decks
+LOW 13
+MID 16
+HIGH 11
+Rounds
+34
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 21
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 21
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 4
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 20
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 2
+Decks
+LOW 9
+MID 20
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 13
+Player 4: WillAI 5
+Decks
+LOW 10
+MID 18
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 19
+Player 4: WillAI 2
+Decks
+LOW 0
+MID 16
+HIGH 15
+Rounds
+33
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 11
+Player 4: WillAI 3
+Decks
+LOW 11
+MID 18
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 22
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 4
+Player 3: ArthurAI 15
+Player 4: WillAI 6
+Decks
+LOW 12
+MID 14
+HIGH 19
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 2
+Decks
+LOW 7
+MID 20
+HIGH 10
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 22
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 8
+Player 2: DefaultAI 16
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 1
+MID 17
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 17
+Player 4: WillAI 6
+Decks
+LOW 4
+MID 18
+HIGH 11
+Rounds
+33
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 19
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 15
+Player 4: WillAI 4
+Decks
+LOW 9
+MID 21
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 22
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 1
+Decks
+LOW 12
+MID 21
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 4
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 23
+HIGH 11
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 4
+Decks
+LOW 3
+MID 22
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 2
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 23
+HIGH 17
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 19
+HIGH 13
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 22
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 17
+Player 3: ArthurAI 9
+Player 4: WillAI 3
+Decks
+LOW 2
+MID 23
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 27
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 19
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 2
+Decks
+LOW 11
+MID 24
+HIGH 7
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 18
+Player 4: WillAI 5
+Decks
+LOW 11
+MID 19
+HIGH 13
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 19
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 22
+HIGH 15
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 15
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 19
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 22
+HIGH 7
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 23
+HIGH 10
+Rounds
+33
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 19
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 19
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 27
+HIGH 11
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 1
+Decks
+LOW 9
+MID 19
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 19
+Player 3: ArthurAI 4
+Player 4: WillAI 1
+Decks
+LOW 11
+MID 24
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 16
+Player 4: WillAI 3
+Decks
+LOW 8
+MID 16
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 1
+Decks
+LOW 3
+MID 22
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 10
+Player 2: DefaultAI 1
+Player 3: ArthurAI 19
+Player 4: WillAI 2
+Decks
+LOW 8
+MID 24
+HIGH 8
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 3
+Decks
+LOW 7
+MID 21
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 22
+HIGH 17
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 22
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 1
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 21
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 11
+Player 4: WillAI 2
+Decks
+LOW 9
+MID 18
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 16
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 18
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 21
+HIGH 11
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 4
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 6
+MID 25
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 18
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 18
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 1
+Decks
+LOW 4
+MID 20
+HIGH 14
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 19
+Player 4: WillAI 4
+Decks
+LOW 13
+MID 17
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 12
+Player 3: ArthurAI 16
+Player 4: WillAI 3
+Decks
+LOW 5
+MID 16
+HIGH 10
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 23
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 20
+MID 17
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 17
+Player 3: ArthurAI 2
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 23
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 4
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 13
+MID 22
+HIGH 13
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 17
+Player 3: ArthurAI 8
+Player 4: WillAI 4
+Decks
+LOW 8
+MID 18
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 19
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 22
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 20
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 3
+Decks
+LOW 14
+MID 17
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 9
+Player 4: WillAI 1
+Decks
+LOW 12
+MID 20
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 16
+Player 3: ArthurAI 3
+Player 4: WillAI 7
+Decks
+LOW 18
+MID 18
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 18
+MID 16
+HIGH 17
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 19
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 21
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 21
+MID 18
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 18
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 14
+MID 18
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 18
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 14
+Player 3: ArthurAI 16
+Player 4: WillAI 8
+Decks
+LOW 6
+MID 14
+HIGH 14
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 16
+Player 4: WillAI 7
+Decks
+LOW 9
+MID 22
+HIGH 10
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 19
+MID 19
+HIGH 11
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 17
+HIGH 17
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 17
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 1
+MID 20
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 20
+HIGH 18
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 20
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 19
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 21
+HIGH 9
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 4
+Decks
+LOW 6
+MID 17
+HIGH 13
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 19
+Player 3: ArthurAI 11
+Player 4: WillAI 3
+Decks
+LOW 11
+MID 18
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 2
+Decks
+LOW 8
+MID 18
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 10
+Player 4: WillAI 1
+Decks
+LOW 9
+MID 22
+HIGH 8
+Rounds
+34
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 1
+Decks
+LOW 7
+MID 21
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 18
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 18
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 21
+HIGH 15
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 1
+Decks
+LOW 11
+MID 22
+HIGH 11
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 20
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 11
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 26
+HIGH 11
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 11
+MID 18
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 19
+MID 21
+HIGH 10
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 4
+MID 18
+HIGH 11
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 18
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 1
+MID 25
+HIGH 11
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 14
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 16
+MID 19
+HIGH 9
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 22
+HIGH 7
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 7
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 18
+MID 17
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 18
+HIGH 18
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 1
+Decks
+LOW 12
+MID 22
+HIGH 9
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 3
+Decks
+LOW 12
+MID 19
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 19
+MID 17
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 10
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 17
+HIGH 12
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 7
+Player 4: WillAI 4
+Decks
+LOW 7
+MID 21
+HIGH 13
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 20
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 17
+HIGH 10
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 19
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 20
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 17
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 18
+HIGH 9
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 22
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 4
+Decks
+LOW 11
+MID 17
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 3
+Player 4: WillAI 1
+Decks
+LOW 15
+MID 23
+HIGH 15
+Rounds
+24
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 20
+HIGH 11
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 18
+Player 3: ArthurAI 2
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 21
+HIGH 17
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 21
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 3
+Player 4: WillAI 4
+Decks
+LOW 11
+MID 17
+HIGH 18
+Rounds
+24
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 3
+Decks
+LOW 11
+MID 18
+HIGH 14
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 18
+HIGH 10
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 18
+Player 3: ArthurAI 6
+Player 4: WillAI 3
+Decks
+LOW 14
+MID 19
+HIGH 16
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 19
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 19
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 25
+HIGH 9
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 18
+HIGH 11
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 23
+HIGH 11
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 16
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 25
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 16
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 16
+Player 3: ArthurAI 16
+Player 4: WillAI 4
+Decks
+LOW 8
+MID 13
+HIGH 15
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 18
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 19
+HIGH 10
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 21
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 2
+MID 24
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 11
+Player 3: ArthurAI 18
+Player 4: WillAI 1
+Decks
+LOW 1
+MID 22
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 14
+Player 4: WillAI 1
+Decks
+LOW 14
+MID 17
+HIGH 16
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 20
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 12
+MID 15
+HIGH 16
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 18
+Player 3: ArthurAI 14
+Player 4: WillAI 2
+Decks
+LOW 14
+MID 17
+HIGH 9
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 16
+Player 4: WillAI 4
+Decks
+LOW 14
+MID 15
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 23
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 4
+Decks
+LOW 10
+MID 17
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 20
+HIGH 17
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 20
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 9
+MID 21
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 18
+Player 3: ArthurAI 13
+Player 4: WillAI 1
+Decks
+LOW 3
+MID 25
+HIGH 7
+Rounds
+34
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 21
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 21
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 22
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 2
+Decks
+LOW 7
+MID 16
+HIGH 17
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 22
+HIGH 13
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 22
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 21
+HIGH 17
+Rounds
+23
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 16
+Player 3: ArthurAI 8
+Player 4: WillAI 3
+Decks
+LOW 5
+MID 21
+HIGH 9
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 12
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 16
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 24
+HIGH 11
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 17
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 4
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 4
+MID 24
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 15
+HIGH 16
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 21
+HIGH 15
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 17
+Player 4: WillAI 4
+Decks
+LOW 15
+MID 12
+HIGH 10
+Rounds
+35
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 4
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 22
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 21
+HIGH 9
+Rounds
+36
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 14
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 23
+HIGH 8
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 21
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 8
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 23
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 18
+HIGH 11
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 9
+Player 4: WillAI 3
+Decks
+LOW 7
+MID 24
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 13
+HIGH 15
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 8
+Player 4: WillAI 3
+Decks
+LOW 4
+MID 23
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 14
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 18
+HIGH 11
+Rounds
+34
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 23
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 21
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 23
+HIGH 12
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 12
+Player 3: ArthurAI 15
+Player 4: WillAI 5
+Decks
+LOW 10
+MID 13
+HIGH 15
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 4
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 20
+HIGH 16
+Rounds
+24
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 3
+Player 3: ArthurAI 17
+Player 4: WillAI 2
+Decks
+LOW 10
+MID 21
+HIGH 15
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 18
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 5
+Player 4: WillAI 3
+Decks
+LOW 9
+MID 22
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 14
+Player 4: WillAI 3
+Decks
+LOW 11
+MID 19
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 27
+HIGH 10
+Rounds
+24
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 19
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 17
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 23
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 20
+Player 4: WillAI 1
+Decks
+LOW 5
+MID 23
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 4
+Decks
+LOW 13
+MID 17
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 16
+Player 4: WillAI 4
+Decks
+LOW 10
+MID 21
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 25
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 21
+HIGH 9
+Rounds
+34
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 6
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 19
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 25
+HIGH 9
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 2
+Decks
+LOW 10
+MID 18
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 17
+HIGH 16
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 21
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 19
+Player 4: WillAI 0
+Decks
+LOW 1
+MID 22
+HIGH 10
+Rounds
+36
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 1
+Decks
+LOW 7
+MID 23
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 17
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 20
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 2
+Decks
+LOW 16
+MID 21
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 18
+HIGH 10
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 18
+Player 4: WillAI 2
+Decks
+LOW 15
+MID 18
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 24
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 19
+HIGH 10
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 21
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 10
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 16
+HIGH 17
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 6
+Player 4: WillAI 2
+Decks
+LOW 10
+MID 23
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 6
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 20
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 15
+Player 4: WillAI 9
+Decks
+LOW 9
+MID 19
+HIGH 17
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 1
+Decks
+LOW 15
+MID 18
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 23
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 19
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 14
+Player 4: WillAI 1
+Decks
+LOW 12
+MID 20
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 17
+Player 4: WillAI 5
+Decks
+LOW 12
+MID 24
+HIGH 13
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 17
+Player 3: ArthurAI 5
+Player 4: WillAI 4
+Decks
+LOW 6
+MID 22
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 18
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 10
+MID 16
+HIGH 15
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 3
+Decks
+LOW 6
+MID 20
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 16
+HIGH 13
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 7
+Player 3: ArthurAI 19
+Player 4: WillAI 1
+Decks
+LOW 5
+MID 22
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 7
+MID 20
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 21
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 18
+HIGH 15
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 1
+Decks
+LOW 12
+MID 20
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 4
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 22
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 22
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 20
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 4
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 19
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 16
+Player 4: WillAI 4
+Decks
+LOW 14
+MID 21
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 18
+Player 4: WillAI 2
+Decks
+LOW 7
+MID 17
+HIGH 11
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 25
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 2
+Decks
+LOW 17
+MID 18
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 23
+HIGH 11
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 20
+HIGH 11
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 19
+Player 4: WillAI 3
+Decks
+LOW 10
+MID 21
+HIGH 14
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 14
+Player 4: WillAI 3
+Decks
+LOW 9
+MID 17
+HIGH 11
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 19
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 7
+MID 14
+HIGH 17
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 4
+Decks
+LOW 11
+MID 23
+HIGH 11
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 4
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 23
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 4
+Player 4: WillAI 4
+Decks
+LOW 10
+MID 21
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 2
+Decks
+LOW 9
+MID 18
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 19
+Player 3: ArthurAI 6
+Player 4: WillAI 1
+Decks
+LOW 10
+MID 17
+HIGH 10
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 15
+Player 4: WillAI 5
+Decks
+LOW 4
+MID 23
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 23
+HIGH 7
+Rounds
+34
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 19
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 17
+HIGH 14
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 20
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 19
+HIGH 10
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 18
+HIGH 18
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 13
+MID 24
+HIGH 11
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 17
+Player 4: WillAI 2
+Decks
+LOW 16
+MID 19
+HIGH 11
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 4
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 22
+HIGH 15
+Rounds
+24
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 22
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 22
+HIGH 15
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 15
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 1
+Decks
+LOW 11
+MID 18
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 8
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 13
+MID 18
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 17
+Player 4: WillAI 4
+Decks
+LOW 16
+MID 16
+HIGH 10
+Rounds
+33
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 20
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 17
+Player 4: WillAI 4
+Decks
+LOW 10
+MID 18
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 7
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 22
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 10
+Player 3: ArthurAI 18
+Player 4: WillAI 2
+Decks
+LOW 6
+MID 15
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 22
+HIGH 11
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 22
+HIGH 9
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 18
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 21
+Player 4: WillAI 4
+Decks
+LOW 2
+MID 20
+HIGH 12
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 14
+Player 3: ArthurAI 18
+Player 4: WillAI 1
+Decks
+LOW 16
+MID 21
+HIGH 8
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 10
+Player 3: ArthurAI 16
+Player 4: WillAI 5
+Decks
+LOW 7
+MID 22
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 20
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 19
+HIGH 13
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 7
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 18
+MID 20
+HIGH 9
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 17
+HIGH 13
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 11
+Player 4: WillAI 2
+Decks
+LOW 9
+MID 20
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 22
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 16
+HIGH 9
+Rounds
+33
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 21
+HIGH 15
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 5
+Decks
+LOW 5
+MID 25
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 20
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 20
+HIGH 10
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 10
+MID 20
+HIGH 18
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 4
+Decks
+LOW 18
+MID 21
+HIGH 13
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 23
+HIGH 15
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 3
+Decks
+LOW 19
+MID 21
+HIGH 15
+Rounds
+24
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 19
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 21
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 3
+Decks
+LOW 15
+MID 13
+HIGH 13
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 11
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 18
+HIGH 16
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 10
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 21
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 15
+Player 4: WillAI 6
+Decks
+LOW 3
+MID 22
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 2
+Decks
+LOW 15
+MID 20
+HIGH 12
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 20
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 16
+Player 4: WillAI 4
+Decks
+LOW 5
+MID 23
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 23
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 18
+MID 17
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 24
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 10
+Player 4: WillAI 1
+Decks
+LOW 10
+MID 18
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 3
+Decks
+LOW 7
+MID 18
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 24
+HIGH 11
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 20
+HIGH 11
+Rounds
+33
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 9
+Player 2: DefaultAI 17
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 17
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 17
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 20
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 16
+HIGH 13
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 27
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 12
+Player 3: ArthurAI 16
+Player 4: WillAI 3
+Decks
+LOW 7
+MID 21
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 15
+HIGH 17
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 14
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 19
+HIGH 14
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 10
+Player 3: ArthurAI 19
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 17
+HIGH 10
+Rounds
+33
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 0
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 14
+MID 23
+HIGH 13
+Rounds
+24
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 8
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 3
+Decks
+LOW 3
+MID 24
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 8
+Player 4: WillAI 3
+Decks
+LOW 10
+MID 20
+HIGH 8
+Rounds
+34
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 21
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 6
+MID 24
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 20
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 11
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 16
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 0
+Player 4: WillAI 3
+Decks
+LOW 6
+MID 25
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 12
+MID 20
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 11
+Player 4: WillAI 2
+Decks
+LOW 9
+MID 20
+HIGH 13
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 20
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 4
+Player 3: ArthurAI 18
+Player 4: WillAI 3
+Decks
+LOW 6
+MID 20
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 2
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 22
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 10
+Player 3: ArthurAI 18
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 16
+HIGH 17
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 1
+Decks
+LOW 14
+MID 23
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 21
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 20
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 3
+Decks
+LOW 9
+MID 20
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 22
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 4
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 23
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 3
+Decks
+LOW 14
+MID 16
+HIGH 18
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 12
+Player 3: ArthurAI 15
+Player 4: WillAI 4
+Decks
+LOW 7
+MID 18
+HIGH 18
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 20
+MID 15
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 8
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 1
+Decks
+LOW 14
+MID 13
+HIGH 18
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 11
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 10
+MID 18
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 23
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 19
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 5
+Player 3: ArthurAI 18
+Player 4: WillAI 1
+Decks
+LOW 6
+MID 19
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 16
+Player 3: ArthurAI 3
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 16
+HIGH 11
+Rounds
+34
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 21
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 6
+MID 23
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 17
+Player 3: ArthurAI 6
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 20
+HIGH 17
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 21
+HIGH 15
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 19
+MID 20
+HIGH 9
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 19
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 14
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 6
+MID 18
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 5
+Decks
+LOW 19
+MID 17
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 11
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 25
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 14
+MID 20
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 6
+Player 4: WillAI 5
+Decks
+LOW 12
+MID 20
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 5
+Decks
+LOW 11
+MID 14
+HIGH 13
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 24
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 22
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 12
+MID 17
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 22
+HIGH 15
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 17
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 21
+HIGH 9
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 6
+Decks
+LOW 13
+MID 16
+HIGH 16
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 11
+Player 2: DefaultAI 17
+Player 3: ArthurAI 19
+Player 4: WillAI 1
+Decks
+LOW 12
+MID 16
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 20
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 1
+Decks
+LOW 13
+MID 22
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 8
+Player 3: ArthurAI 19
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 20
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 11
+Player 4: WillAI 3
+Decks
+LOW 1
+MID 22
+HIGH 18
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 8
+Player 4: WillAI 7
+Decks
+LOW 14
+MID 17
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 6
+MID 16
+HIGH 18
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 24
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 1
+Decks
+LOW 9
+MID 14
+HIGH 19
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 21
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 14
+HIGH 20
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 17
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 16
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 1
+Player 4: WillAI 3
+Decks
+LOW 5
+MID 24
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 15
+Player 4: WillAI 6
+Decks
+LOW 8
+MID 17
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 4
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 22
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 17
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 5
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 19
+HIGH 13
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 11
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 20
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 23
+HIGH 10
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 4
+MID 23
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 26
+HIGH 10
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 15
+Player 4: WillAI 4
+Decks
+LOW 14
+MID 22
+HIGH 13
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 21
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 21
+HIGH 9
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 10
+MID 18
+HIGH 13
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 8
+Player 4: WillAI 1
+Decks
+LOW 13
+MID 18
+HIGH 16
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 23
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 12
+MID 22
+HIGH 11
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 23
+HIGH 14
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 20
+HIGH 11
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 24
+HIGH 9
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 20
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 21
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 18
+Player 3: ArthurAI 13
+Player 4: WillAI 4
+Decks
+LOW 25
+MID 10
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 19
+HIGH 16
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 17
+Player 3: ArthurAI 12
+Player 4: WillAI 6
+Decks
+LOW 9
+MID 13
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 14
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 18
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 23
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 4
+Decks
+LOW 15
+MID 16
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 6
+Player 3: ArthurAI 15
+Player 4: WillAI 1
+Decks
+LOW 5
+MID 23
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 27
+HIGH 13
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 5
+MID 22
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 17
+Player 4: WillAI 6
+Decks
+LOW 8
+MID 21
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 18
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 18
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 21
+HIGH 8
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 4
+Decks
+LOW 12
+MID 20
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 14
+Player 4: WillAI 2
+Decks
+LOW 5
+MID 21
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 16
+Player 3: ArthurAI 14
+Player 4: WillAI 3
+Decks
+LOW 6
+MID 15
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 19
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 16
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 18
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 21
+MID 19
+HIGH 15
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 18
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 17
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 11
+Player 4: WillAI 2
+Decks
+LOW 13
+MID 16
+HIGH 9
+Rounds
+35
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 1
+Decks
+LOW 11
+MID 22
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 5
+Player 4: WillAI 4
+Decks
+LOW 8
+MID 21
+HIGH 18
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 18
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 8
+Player 4: WillAI 7
+Decks
+LOW 9
+MID 22
+HIGH 15
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 5
+Decks
+LOW 9
+MID 16
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 1
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 22
+HIGH 17
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 10
+Decks
+LOW 6
+MID 18
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 20
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 18
+HIGH 9
+Rounds
+33
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 16
+HIGH 16
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 4
+MID 22
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 11
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 21
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 21
+HIGH 9
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 14
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 19
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 17
+HIGH 14
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 21
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 17
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 25
+HIGH 10
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 6
+Player 3: ArthurAI 15
+Player 4: WillAI 6
+Decks
+LOW 3
+MID 19
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 13
+Player 3: ArthurAI 18
+Player 4: WillAI 3
+Decks
+LOW 12
+MID 11
+HIGH 17
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 18
+MID 17
+HIGH 10
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 2
+Decks
+LOW 6
+MID 24
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 2
+Decks
+LOW 10
+MID 20
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 18
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 4
+MID 26
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 18
+Player 4: WillAI 2
+Decks
+LOW 4
+MID 19
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 21
+Player 4: WillAI 2
+Decks
+LOW 0
+MID 16
+HIGH 10
+Rounds
+38
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 16
+Player 4: WillAI 3
+Decks
+LOW 9
+MID 18
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 21
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 23
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 6
+MID 20
+HIGH 9
+Rounds
+34
+Winner(s)
+Player 2: DefaultAI
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 20
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 6
+Decks
+LOW 9
+MID 20
+HIGH 8
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 23
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 14
+HIGH 17
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 18
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 17
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 2
+Decks
+LOW 11
+MID 19
+HIGH 16
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 12
+Player 3: ArthurAI 18
+Player 4: WillAI 7
+Decks
+LOW 12
+MID 15
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 17
+HIGH 16
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 22
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 2
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 26
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 18
+Player 4: WillAI 3
+Decks
+LOW 5
+MID 26
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 21
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 2
+MID 20
+HIGH 15
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 16
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 22
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 2
+MID 23
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 25
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 3
+Decks
+LOW 21
+MID 20
+HIGH 9
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 10
+Player 4: WillAI 2
+Decks
+LOW 9
+MID 19
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 19
+Player 3: ArthurAI 9
+Player 4: WillAI 1
+Decks
+LOW 14
+MID 22
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 3
+Decks
+LOW 8
+MID 20
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 3
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 26
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 11
+Player 4: WillAI 2
+Decks
+LOW 18
+MID 13
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 21
+HIGH 16
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 23
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 5
+MID 24
+HIGH 7
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 14
+Player 4: WillAI 5
+Decks
+LOW 9
+MID 18
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 18
+Player 3: ArthurAI 14
+Player 4: WillAI 3
+Decks
+LOW 1
+MID 21
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 5
+Player 4: WillAI 2
+Decks
+LOW 15
+MID 22
+HIGH 9
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 4
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 22
+HIGH 15
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 4
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 12
+MID 19
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 4
+MID 22
+HIGH 15
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 19
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 21
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 17
+Player 3: ArthurAI 8
+Player 4: WillAI 1
+Decks
+LOW 7
+MID 25
+HIGH 10
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 20
+HIGH 18
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 5
+Decks
+LOW 7
+MID 17
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 3
+Decks
+LOW 21
+MID 11
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 2
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 24
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 1
+Decks
+LOW 9
+MID 20
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 6
+Player 4: WillAI 10
+Decks
+LOW 2
+MID 21
+HIGH 18
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 21
+HIGH 9
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 12
+MID 21
+HIGH 9
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 15
+Player 4: WillAI 4
+Decks
+LOW 13
+MID 16
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 5
+Player 4: WillAI 3
+Decks
+LOW 12
+MID 18
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 19
+Player 4: WillAI 3
+Decks
+LOW 10
+MID 27
+HIGH 6
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 16
+Player 3: ArthurAI 19
+Player 4: WillAI 4
+Decks
+LOW 16
+MID 16
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 4
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 22
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 16
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 17
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 18
+Player 4: WillAI 2
+Decks
+LOW 15
+MID 15
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 8
+MID 19
+HIGH 18
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 14
+Player 4: WillAI 1
+Decks
+LOW 14
+MID 17
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 17
+Player 4: WillAI 6
+Decks
+LOW 7
+MID 16
+HIGH 15
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 22
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 18
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 19
+MID 19
+HIGH 7
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 11
+Player 4: WillAI 1
+Decks
+LOW 11
+MID 18
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 18
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 19
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 22
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 2
+Decks
+LOW 6
+MID 19
+HIGH 16
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 18
+Player 3: ArthurAI 13
+Player 4: WillAI 2
+Decks
+LOW 13
+MID 13
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 10
+Player 3: ArthurAI 20
+Player 4: WillAI 2
+Decks
+LOW 0
+MID 24
+HIGH 10
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 1
+Decks
+LOW 3
+MID 21
+HIGH 16
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 15
+Player 3: ArthurAI 1
+Player 4: WillAI 4
+Decks
+LOW 14
+MID 17
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 18
+Player 3: ArthurAI 12
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 19
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 11
+MID 18
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 13
+MID 20
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 2
+Decks
+LOW 14
+MID 18
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 26
+HIGH 10
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 17
+Player 3: ArthurAI 3
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 23
+HIGH 10
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 7
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 17
+HIGH 18
+Rounds
+24
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 13
+Player 4: WillAI 1
+Decks
+LOW 10
+MID 24
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 18
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 6
+Decks
+LOW 8
+MID 13
+HIGH 16
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 23
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 12
+Player 4: WillAI 3
+Decks
+LOW 10
+MID 16
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 4
+Decks
+LOW 4
+MID 25
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 2
+Decks
+LOW 11
+MID 17
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 17
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 18
+HIGH 16
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 2
+Decks
+LOW 8
+MID 22
+HIGH 10
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 9
+Player 4: WillAI 3
+Decks
+LOW 11
+MID 20
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 16
+Player 4: WillAI 4
+Decks
+LOW 7
+MID 22
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 21
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 9
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 9
+MID 16
+HIGH 18
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 7
+Player 4: WillAI 4
+Decks
+LOW 9
+MID 20
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 3
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 22
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 16
+Player 3: ArthurAI 13
+Player 4: WillAI 2
+Decks
+LOW 7
+MID 17
+HIGH 15
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 24
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 1
+Decks
+LOW 11
+MID 16
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 13
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 11
+MID 18
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 19
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 8
+Player 3: ArthurAI 15
+Player 4: WillAI 6
+Decks
+LOW 12
+MID 19
+HIGH 8
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 12
+MID 16
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 12
+Player 3: ArthurAI 15
+Player 4: WillAI 6
+Decks
+LOW 10
+MID 15
+HIGH 13
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 7
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 20
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 19
+Player 3: ArthurAI 6
+Player 4: WillAI 3
+Decks
+LOW 17
+MID 19
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 2
+Decks
+LOW 20
+MID 19
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 22
+HIGH 10
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 6
+MID 19
+HIGH 18
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 12
+Player 4: WillAI 1
+Decks
+LOW 14
+MID 17
+HIGH 8
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 13
+Player 4: WillAI 7
+Decks
+LOW 17
+MID 17
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 13
+Player 4: WillAI 2
+Decks
+LOW 7
+MID 20
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 17
+Player 4: WillAI 2
+Decks
+LOW 7
+MID 18
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 2
+Decks
+LOW 11
+MID 20
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 1
+Decks
+LOW 5
+MID 21
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 18
+MID 20
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 21
+MID 20
+HIGH 14
+Rounds
+24
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 1
+Decks
+LOW 7
+MID 22
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 5
+Decks
+LOW 14
+MID 22
+HIGH 9
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 20
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 25
+HIGH 9
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 23
+HIGH 10
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 26
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 15
+Player 4: WillAI 7
+Decks
+LOW 10
+MID 18
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 19
+HIGH 13
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 16
+Player 3: ArthurAI 3
+Player 4: WillAI 3
+Decks
+LOW 17
+MID 18
+HIGH 13
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 14
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 12
+MID 20
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 10
+Player 4: WillAI 3
+Decks
+LOW 4
+MID 17
+HIGH 15
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 4
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 24
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 16
+Player 4: WillAI 7
+Decks
+LOW 9
+MID 15
+HIGH 15
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 17
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 4
+Decks
+LOW 8
+MID 24
+HIGH 9
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 19
+Player 4: WillAI 5
+Decks
+LOW 5
+MID 23
+HIGH 9
+Rounds
+32
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 4
+Decks
+LOW 8
+MID 21
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 11
+Player 4: WillAI 3
+Decks
+LOW 12
+MID 17
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 16
+MID 21
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 18
+HIGH 11
+Rounds
+35
+Winner(s)
+Player 2: DefaultAI
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 16
+HIGH 16
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 4
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 24
+HIGH 13
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 12
+Player 3: ArthurAI 17
+Player 4: WillAI 10
+Decks
+LOW 9
+MID 20
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 3
+Decks
+LOW 6
+MID 21
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 4
+Player 3: ArthurAI 18
+Player 4: WillAI 11
+Decks
+LOW 5
+MID 17
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 18
+Player 3: ArthurAI 14
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 15
+HIGH 13
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 4
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 22
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 3
+Decks
+LOW 6
+MID 21
+HIGH 11
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 17
+HIGH 13
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 9
+Player 4: WillAI 5
+Decks
+LOW 0
+MID 20
+HIGH 17
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 9
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 12
+MID 13
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 4
+Player 4: WillAI 4
+Decks
+LOW 10
+MID 23
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 1
+Decks
+LOW 10
+MID 20
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 12
+Player 3: ArthurAI 18
+Player 4: WillAI 4
+Decks
+LOW 12
+MID 16
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 20
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 21
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 9
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 18
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 18
+Player 3: ArthurAI 13
+Player 4: WillAI 5
+Decks
+LOW 13
+MID 17
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 25
+MID 14
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 25
+HIGH 12
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 13
+MID 20
+HIGH 11
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 8
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 17
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 5
+Decks
+LOW 2
+MID 23
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 5
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 21
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 18
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 6
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 17
+HIGH 14
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 14
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 20
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 8
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 19
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 10
+Player 2: DefaultAI 15
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 4
+MID 21
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 10
+Player 3: ArthurAI 17
+Player 4: WillAI 5
+Decks
+LOW 9
+MID 14
+HIGH 15
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 18
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 18
+HIGH 15
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 12
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 19
+HIGH 10
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 18
+MID 16
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 24
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 15
+Player 4: WillAI 4
+Decks
+LOW 9
+MID 20
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 17
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 19
+HIGH 16
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 18
+Player 4: WillAI 3
+Decks
+LOW 9
+MID 22
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 3
+Decks
+LOW 7
+MID 13
+HIGH 15
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 20
+Player 3: ArthurAI 13
+Player 4: WillAI 2
+Decks
+LOW 8
+MID 22
+HIGH 10
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 22
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 20
+HIGH 17
+Rounds
+25
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 10
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 18
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 8
+Player 4: WillAI 1
+Decks
+LOW 9
+MID 22
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 9
+Player 3: ArthurAI 16
+Player 4: WillAI 3
+Decks
+LOW 8
+MID 20
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 17
+Player 3: ArthurAI 6
+Player 4: WillAI 3
+Decks
+LOW 8
+MID 19
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 2
+MID 26
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 21
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 1
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 24
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 18
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 21
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 2
+MID 26
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 13
+Player 4: WillAI 2
+Decks
+LOW 8
+MID 23
+HIGH 8
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 21
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 5
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 6
+MID 23
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 14
+Player 4: WillAI 6
+Decks
+LOW 17
+MID 13
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 11
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 9
+MID 19
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 5
+Decks
+LOW 9
+MID 20
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 18
+MID 19
+HIGH 11
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 9
+Player 3: ArthurAI 17
+Player 4: WillAI 5
+Decks
+LOW 8
+MID 21
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 25
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 15
+Player 4: WillAI 8
+Decks
+LOW 10
+MID 14
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 10
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 22
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 23
+HIGH 8
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 20
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 15
+HIGH 19
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 3
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 25
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 4
+MID 19
+HIGH 15
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 11
+Player 3: ArthurAI 17
+Player 4: WillAI 7
+Decks
+LOW 10
+MID 17
+HIGH 9
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 20
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 10
+Player 4: WillAI 3
+Decks
+LOW 10
+MID 21
+HIGH 14
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 1
+MID 18
+HIGH 18
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 3
+Decks
+LOW 15
+MID 21
+HIGH 13
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 0
+Player 4: WillAI 3
+Decks
+LOW 8
+MID 23
+HIGH 15
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 17
+Player 4: WillAI 8
+Decks
+LOW 0
+MID 22
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 11
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 16
+HIGH 15
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 14
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 6
+MID 19
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 18
+Player 4: WillAI 1
+Decks
+LOW 4
+MID 24
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 4
+Decks
+LOW 10
+MID 21
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 18
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 19
+MID 11
+HIGH 15
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 13
+Player 4: WillAI 1
+Decks
+LOW 4
+MID 22
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 21
+HIGH 9
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 8
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 17
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 9
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 14
+MID 16
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 4
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 3
+MID 26
+HIGH 8
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 22
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 4
+Decks
+LOW 12
+MID 21
+HIGH 14
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 23
+HIGH 13
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 17
+Player 3: ArthurAI 8
+Player 4: WillAI 4
+Decks
+LOW 9
+MID 21
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 8
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 20
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 11
+Player 3: ArthurAI 18
+Player 4: WillAI 3
+Decks
+LOW 11
+MID 21
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 21
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 16
+Player 3: ArthurAI 5
+Player 4: WillAI 2
+Decks
+LOW 15
+MID 18
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 22
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 18
+HIGH 12
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 10
+MID 19
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 22
+HIGH 12
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 13
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 23
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 18
+HIGH 10
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 17
+HIGH 15
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 19
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 0
+MID 26
+HIGH 12
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 14
+Player 3: ArthurAI 18
+Player 4: WillAI 1
+Decks
+LOW 11
+MID 16
+HIGH 17
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 19
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 18
+Player 3: ArthurAI 9
+Player 4: WillAI 1
+Decks
+LOW 10
+MID 20
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 12
+Player 4: WillAI 2
+Decks
+LOW 7
+MID 19
+HIGH 10
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 9
+Player 3: ArthurAI 19
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 23
+HIGH 12
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 20
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 13
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 0
+MID 22
+HIGH 9
+Rounds
+34
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 17
+Player 4: WillAI 4
+Decks
+LOW 8
+MID 20
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 25
+HIGH 9
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 16
+Player 4: WillAI 4
+Decks
+LOW 15
+MID 16
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 12
+MID 21
+HIGH 17
+Rounds
+24
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 10
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 12
+MID 13
+HIGH 16
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 5
+Decks
+LOW 11
+MID 16
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 18
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 6
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 21
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 26
+HIGH 13
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 5
+MID 19
+HIGH 16
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 5
+MID 26
+HIGH 12
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 17
+Player 3: ArthurAI 14
+Player 4: WillAI 6
+Decks
+LOW 6
+MID 17
+HIGH 12
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 13
+Player 4: WillAI 0
+Decks
+LOW 14
+MID 24
+HIGH 8
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 1
+Decks
+LOW 12
+MID 22
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 6
+Player 4: WillAI 1
+Decks
+LOW 9
+MID 24
+HIGH 13
+Rounds
+26
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 6
+MID 23
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 8
+MID 23
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 2: DefaultAI
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 3
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 22
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 16
+Player 4: WillAI 2
+Decks
+LOW 15
+MID 21
+HIGH 12
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 11
+MID 17
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 5
+Player 2: DefaultAI 17
+Player 3: ArthurAI 12
+Player 4: WillAI 3
+Decks
+LOW 5
+MID 22
+HIGH 5
+Rounds
+36
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 8
+Player 3: ArthurAI 17
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 20
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 18
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 18
+HIGH 11
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 5
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 24
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 7
+Player 3: ArthurAI 17
+Player 4: WillAI 2
+Decks
+LOW 14
+MID 16
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 6
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 12
+MID 17
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 18
+Player 3: ArthurAI 15
+Player 4: WillAI 2
+Decks
+LOW 9
+MID 20
+HIGH 14
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 4
+Decks
+LOW 3
+MID 19
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 15
+Player 3: ArthurAI 13
+Player 4: WillAI 3
+Decks
+LOW 14
+MID 18
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 4
+Player 2: DefaultAI 4
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 7
+MID 21
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 6
+Player 4: WillAI 2
+Decks
+LOW 5
+MID 21
+HIGH 16
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 23
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 17
+Player 3: ArthurAI 6
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 23
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 5
+Player 4: WillAI 1
+Decks
+LOW 7
+MID 22
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 6
+Player 3: ArthurAI 18
+Player 4: WillAI 1
+Decks
+LOW 21
+MID 21
+HIGH 11
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 20
+Player 3: ArthurAI 17
+Player 4: WillAI 6
+Decks
+LOW 4
+MID 17
+HIGH 12
+Rounds
+35
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 3
+MID 22
+HIGH 17
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 10
+Player 2: DefaultAI 9
+Player 3: ArthurAI 16
+Player 4: WillAI 1
+Decks
+LOW 12
+MID 20
+HIGH 7
+Rounds
+28
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 9
+Player 4: WillAI 0
+Decks
+LOW 17
+MID 20
+HIGH 13
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 7
+Player 4: WillAI 0
+Decks
+LOW 19
+MID 21
+HIGH 13
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 13
+MID 19
+HIGH 11
+Rounds
+28
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 7
+Player 3: ArthurAI 17
+Player 4: WillAI 3
+Decks
+LOW 15
+MID 21
+HIGH 13
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 10
+Player 4: WillAI 2
+Decks
+LOW 10
+MID 18
+HIGH 13
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 9
+Player 3: ArthurAI 17
+Player 4: WillAI 3
+Decks
+LOW 14
+MID 19
+HIGH 17
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 11
+Player 4: WillAI 4
+Decks
+LOW 9
+MID 21
+HIGH 8
+Rounds
+32
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 20
+HIGH 11
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 10
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 16
+MID 21
+HIGH 9
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 19
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 15
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 6
+MID 23
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 7
+Player 2: DefaultAI 11
+Player 3: ArthurAI 15
+Player 4: WillAI 3
+Decks
+LOW 5
+MID 23
+HIGH 10
+Rounds
+29
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 16
+Player 3: ArthurAI 2
+Player 4: WillAI 0
+Decks
+LOW 9
+MID 25
+HIGH 9
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 12
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 10
+MID 20
+HIGH 16
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 3
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 23
+HIGH 14
+Rounds
+27
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 8
+Player 3: ArthurAI 15
+Player 4: WillAI 4
+Decks
+LOW 6
+MID 23
+HIGH 14
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 3
+Player 2: DefaultAI 2
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 15
+MID 23
+HIGH 14
+Rounds
+24
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 2
+Player 3: ArthurAI 17
+Player 4: WillAI 1
+Decks
+LOW 10
+MID 21
+HIGH 16
+Rounds
+26
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 19
+HIGH 13
+Rounds
+29
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 9
+Player 2: DefaultAI 18
+Player 3: ArthurAI 10
+Player 4: WillAI 0
+Decks
+LOW 8
+MID 23
+HIGH 7
+Rounds
+31
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 2
+Player 2: DefaultAI 15
+Player 3: ArthurAI 8
+Player 4: WillAI 3
+Decks
+LOW 17
+MID 20
+HIGH 12
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 1
+Player 2: DefaultAI 17
+Player 3: ArthurAI 5
+Player 4: WillAI 3
+Decks
+LOW 9
+MID 19
+HIGH 16
+Rounds
+25
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 16
+Player 3: ArthurAI 12
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 18
+HIGH 11
+Rounds
+33
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 8
+Player 2: DefaultAI 16
+Player 3: ArthurAI 2
+Player 4: WillAI 0
+Decks
+LOW 7
+MID 25
+HIGH 10
+Rounds
+27
+Winner(s)
+Player 2: DefaultAI
+Players
+Player 1: WillAI 6
+Player 2: DefaultAI 14
+Player 3: ArthurAI 15
+Player 4: WillAI 0
+Decks
+LOW 11
+MID 19
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 3: ArthurAI
+Players
+Player 1: WillAI 0
+Player 2: DefaultAI 17
+Player 3: ArthurAI 16
+Player 4: WillAI 0
+Decks
+LOW 0
+MID 21
+HIGH 11
+Rounds
+37
+Winner(s)
+Player 2: DefaultAI

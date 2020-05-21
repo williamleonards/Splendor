@@ -1,0 +1,1301 @@
+Players
+Player 1: MCTSv0AI1 4
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 7
+Player 4: MCTSv3AI1 18
+Decks
+LOW 0
+MID 15
+HIGH 15
+Rounds
+30
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 5
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 17
+Player 4: MCTSv3AI1 4
+Decks
+LOW 0
+MID 12
+HIGH 17
+Rounds
+31
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 16
+Player 2: MCTSv1AI1 15
+Player 3: MCTSv2AI1 9
+Player 4: MCTSv3AI1 12
+Decks
+LOW 0
+MID 7
+HIGH 16
+Rounds
+32
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 5
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 13
+Player 4: MCTSv3AI1 18
+Decks
+LOW 0
+MID 10
+HIGH 14
+Rounds
+33
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 5
+Player 2: MCTSv1AI1 6
+Player 3: MCTSv2AI1 5
+Player 4: MCTSv3AI1 17
+Decks
+LOW 0
+MID 13
+HIGH 16
+Rounds
+29
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 13
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 7
+Player 4: MCTSv3AI1 16
+Decks
+LOW 0
+MID 12
+HIGH 13
+Rounds
+32
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 8
+Player 2: MCTSv1AI1 1
+Player 3: MCTSv2AI1 11
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 13
+HIGH 15
+Rounds
+31
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 8
+Player 2: MCTSv1AI1 10
+Player 3: MCTSv2AI1 5
+Player 4: MCTSv3AI1 16
+Decks
+LOW 0
+MID 11
+HIGH 16
+Rounds
+32
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 7
+Player 2: MCTSv1AI1 6
+Player 3: MCTSv2AI1 15
+Player 4: MCTSv3AI1 9
+Decks
+LOW 0
+MID 10
+HIGH 15
+Rounds
+33
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 6
+Player 2: MCTSv1AI1 11
+Player 3: MCTSv2AI1 17
+Player 4: MCTSv3AI1 9
+Decks
+LOW 0
+MID 9
+HIGH 14
+Rounds
+32
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 17
+Player 2: MCTSv1AI1 5
+Player 3: MCTSv2AI1 5
+Player 4: MCTSv3AI1 8
+Decks
+LOW 0
+MID 11
+HIGH 16
+Rounds
+32
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 17
+Player 2: MCTSv1AI1 12
+Player 3: MCTSv2AI1 5
+Player 4: MCTSv3AI1 6
+Decks
+LOW 0
+MID 13
+HIGH 14
+Rounds
+35
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 7
+Player 2: MCTSv1AI1 10
+Player 3: MCTSv2AI1 15
+Player 4: MCTSv3AI1 16
+Decks
+LOW 0
+MID 5
+HIGH 15
+Rounds
+31
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 7
+Player 2: MCTSv1AI1 14
+Player 3: MCTSv2AI1 8
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 11
+HIGH 14
+Rounds
+33
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 19
+Player 2: MCTSv1AI1 8
+Player 3: MCTSv2AI1 10
+Player 4: MCTSv3AI1 7
+Decks
+LOW 0
+MID 14
+HIGH 9
+Rounds
+33
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 9
+Player 2: MCTSv1AI1 4
+Player 3: MCTSv2AI1 10
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 12
+HIGH 14
+Rounds
+31
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 16
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 6
+Player 4: MCTSv3AI1 8
+Decks
+LOW 0
+MID 14
+HIGH 17
+Rounds
+29
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 18
+Player 2: MCTSv1AI1 6
+Player 3: MCTSv2AI1 14
+Player 4: MCTSv3AI1 12
+Decks
+LOW 0
+MID 7
+HIGH 14
+Rounds
+33
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 11
+Player 2: MCTSv1AI1 10
+Player 3: MCTSv2AI1 16
+Player 4: MCTSv3AI1 10
+Decks
+LOW 0
+MID 9
+HIGH 11
+Rounds
+34
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 4
+Player 2: MCTSv1AI1 8
+Player 3: MCTSv2AI1 15
+Player 4: MCTSv3AI1 8
+Decks
+LOW 0
+MID 16
+HIGH 12
+Rounds
+36
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 2
+Player 2: MCTSv1AI1 4
+Player 3: MCTSv2AI1 7
+Player 4: MCTSv3AI1 15
+Decks
+LOW 1
+MID 14
+HIGH 17
+Rounds
+27
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 6
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 16
+Player 4: MCTSv3AI1 3
+Decks
+LOW 0
+MID 13
+HIGH 16
+Rounds
+32
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 10
+Player 2: MCTSv1AI1 14
+Player 3: MCTSv2AI1 16
+Player 4: MCTSv3AI1 2
+Decks
+LOW 0
+MID 13
+HIGH 13
+Rounds
+34
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 11
+Player 2: MCTSv1AI1 14
+Player 3: MCTSv2AI1 18
+Player 4: MCTSv3AI1 13
+Decks
+LOW 0
+MID 13
+HIGH 6
+Rounds
+35
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 15
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 4
+Player 4: MCTSv3AI1 10
+Decks
+LOW 0
+MID 15
+HIGH 13
+Rounds
+31
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 6
+Player 2: MCTSv1AI1 5
+Player 3: MCTSv2AI1 0
+Player 4: MCTSv3AI1 15
+Decks
+LOW 1
+MID 19
+HIGH 16
+Rounds
+25
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 10
+Player 2: MCTSv1AI1 10
+Player 3: MCTSv2AI1 15
+Player 4: MCTSv3AI1 7
+Decks
+LOW 0
+MID 14
+HIGH 10
+Rounds
+33
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 11
+Player 2: MCTSv1AI1 1
+Player 3: MCTSv2AI1 16
+Player 4: MCTSv3AI1 13
+Decks
+LOW 0
+MID 12
+HIGH 17
+Rounds
+33
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 9
+Player 2: MCTSv1AI1 13
+Player 3: MCTSv2AI1 10
+Player 4: MCTSv3AI1 18
+Decks
+LOW 0
+MID 7
+HIGH 16
+Rounds
+31
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 3
+Player 2: MCTSv1AI1 8
+Player 3: MCTSv2AI1 10
+Player 4: MCTSv3AI1 17
+Decks
+LOW 0
+MID 13
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 3
+Player 2: MCTSv1AI1 10
+Player 3: MCTSv2AI1 15
+Player 4: MCTSv3AI1 8
+Decks
+LOW 0
+MID 13
+HIGH 16
+Rounds
+30
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 12
+Player 2: MCTSv1AI1 10
+Player 3: MCTSv2AI1 3
+Player 4: MCTSv3AI1 20
+Decks
+LOW 0
+MID 9
+HIGH 16
+Rounds
+31
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 1
+Player 2: MCTSv1AI1 16
+Player 3: MCTSv2AI1 13
+Player 4: MCTSv3AI1 13
+Decks
+LOW 0
+MID 11
+HIGH 14
+Rounds
+32
+Winner(s)
+Player 2: MCTSv1AI1
+Players
+Player 1: MCTSv0AI1 10
+Player 2: MCTSv1AI1 5
+Player 3: MCTSv2AI1 14
+Player 4: MCTSv3AI1 16
+Decks
+LOW 0
+MID 9
+HIGH 13
+Rounds
+34
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 12
+Player 2: MCTSv1AI1 10
+Player 3: MCTSv2AI1 16
+Player 4: MCTSv3AI1 1
+Decks
+LOW 0
+MID 18
+HIGH 14
+Rounds
+31
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 1
+Player 2: MCTSv1AI1 4
+Player 3: MCTSv2AI1 16
+Player 4: MCTSv3AI1 11
+Decks
+LOW 1
+MID 14
+HIGH 17
+Rounds
+29
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 9
+Player 2: MCTSv1AI1 15
+Player 3: MCTSv2AI1 13
+Player 4: MCTSv3AI1 13
+Decks
+LOW 0
+MID 7
+HIGH 13
+Rounds
+35
+Winner(s)
+Player 2: MCTSv1AI1
+Players
+Player 1: MCTSv0AI1 15
+Player 2: MCTSv1AI1 10
+Player 3: MCTSv2AI1 10
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 3
+HIGH 15
+Rounds
+36
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 15
+Player 2: MCTSv1AI1 8
+Player 3: MCTSv2AI1 6
+Player 4: MCTSv3AI1 9
+Decks
+LOW 0
+MID 19
+HIGH 11
+Rounds
+31
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 5
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 3
+Player 4: MCTSv3AI1 16
+Decks
+LOW 0
+MID 11
+HIGH 16
+Rounds
+30
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 5
+Player 2: MCTSv1AI1 6
+Player 3: MCTSv2AI1 7
+Player 4: MCTSv3AI1 18
+Decks
+LOW 0
+MID 15
+HIGH 15
+Rounds
+30
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 7
+Player 2: MCTSv1AI1 18
+Player 3: MCTSv2AI1 6
+Player 4: MCTSv3AI1 12
+Decks
+LOW 0
+MID 14
+HIGH 12
+Rounds
+34
+Winner(s)
+Player 2: MCTSv1AI1
+Players
+Player 1: MCTSv0AI1 17
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 6
+Player 4: MCTSv3AI1 14
+Decks
+LOW 0
+MID 16
+HIGH 9
+Rounds
+34
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 10
+Player 2: MCTSv1AI1 4
+Player 3: MCTSv2AI1 8
+Player 4: MCTSv3AI1 16
+Decks
+LOW 0
+MID 17
+HIGH 15
+Rounds
+32
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 12
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 2
+Player 4: MCTSv3AI1 16
+Decks
+LOW 0
+MID 17
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 1
+Player 2: MCTSv1AI1 12
+Player 3: MCTSv2AI1 18
+Player 4: MCTSv3AI1 10
+Decks
+LOW 0
+MID 12
+HIGH 14
+Rounds
+34
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 3
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 5
+Player 4: MCTSv3AI1 20
+Decks
+LOW 0
+MID 17
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 17
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 11
+Player 4: MCTSv3AI1 7
+Decks
+LOW 0
+MID 13
+HIGH 12
+Rounds
+33
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 5
+Player 2: MCTSv1AI1 4
+Player 3: MCTSv2AI1 2
+Player 4: MCTSv3AI1 17
+Decks
+LOW 0
+MID 17
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 16
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 5
+Player 4: MCTSv3AI1 13
+Decks
+LOW 0
+MID 9
+HIGH 15
+Rounds
+31
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 15
+Player 2: MCTSv1AI1 8
+Player 3: MCTSv2AI1 6
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 12
+HIGH 13
+Rounds
+33
+Winner(s)
+Player 4: MCTSv3AI1
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 10
+Player 2: MCTSv1AI1 17
+Player 3: MCTSv2AI1 15
+Player 4: MCTSv3AI1 14
+Decks
+LOW 0
+MID 4
+HIGH 13
+Rounds
+36
+Winner(s)
+Player 2: MCTSv1AI1
+Players
+Player 1: MCTSv0AI1 7
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 3
+Player 4: MCTSv3AI1 16
+Decks
+LOW 0
+MID 19
+HIGH 13
+Rounds
+28
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 8
+Player 2: MCTSv1AI1 11
+Player 3: MCTSv2AI1 15
+Player 4: MCTSv3AI1 13
+Decks
+LOW 1
+MID 6
+HIGH 14
+Rounds
+35
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 5
+Player 2: MCTSv1AI1 8
+Player 3: MCTSv2AI1 16
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 14
+HIGH 14
+Rounds
+31
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 6
+Player 2: MCTSv1AI1 8
+Player 3: MCTSv2AI1 4
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 15
+HIGH 14
+Rounds
+31
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 8
+Player 2: MCTSv1AI1 11
+Player 3: MCTSv2AI1 11
+Player 4: MCTSv3AI1 19
+Decks
+LOW 0
+MID 8
+HIGH 11
+Rounds
+33
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 9
+Player 2: MCTSv1AI1 10
+Player 3: MCTSv2AI1 15
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 9
+HIGH 12
+Rounds
+31
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 16
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 11
+Player 4: MCTSv3AI1 8
+Decks
+LOW 0
+MID 14
+HIGH 16
+Rounds
+30
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 9
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 17
+Player 4: MCTSv3AI1 13
+Decks
+LOW 0
+MID 9
+HIGH 13
+Rounds
+33
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 14
+Player 2: MCTSv1AI1 11
+Player 3: MCTSv2AI1 12
+Player 4: MCTSv3AI1 16
+Decks
+LOW 0
+MID 5
+HIGH 14
+Rounds
+34
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 4
+Player 2: MCTSv1AI1 14
+Player 3: MCTSv2AI1 15
+Player 4: MCTSv3AI1 11
+Decks
+LOW 0
+MID 13
+HIGH 12
+Rounds
+33
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 7
+Player 2: MCTSv1AI1 11
+Player 3: MCTSv2AI1 11
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 11
+HIGH 12
+Rounds
+34
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 4
+Player 2: MCTSv1AI1 4
+Player 3: MCTSv2AI1 13
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 11
+HIGH 17
+Rounds
+31
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 16
+Player 2: MCTSv1AI1 11
+Player 3: MCTSv2AI1 7
+Player 4: MCTSv3AI1 14
+Decks
+LOW 0
+MID 9
+HIGH 11
+Rounds
+35
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 4
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 5
+Player 4: MCTSv3AI1 19
+Decks
+LOW 0
+MID 19
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 18
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 6
+Player 4: MCTSv3AI1 14
+Decks
+LOW 0
+MID 10
+HIGH 13
+Rounds
+35
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 10
+Player 2: MCTSv1AI1 13
+Player 3: MCTSv2AI1 9
+Player 4: MCTSv3AI1 16
+Decks
+LOW 0
+MID 10
+HIGH 10
+Rounds
+35
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 16
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 12
+Player 4: MCTSv3AI1 9
+Decks
+LOW 0
+MID 9
+HIGH 16
+Rounds
+31
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 7
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 9
+Player 4: MCTSv3AI1 16
+Decks
+LOW 0
+MID 20
+HIGH 11
+Rounds
+30
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 11
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 16
+Player 4: MCTSv3AI1 13
+Decks
+LOW 0
+MID 5
+HIGH 15
+Rounds
+39
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 7
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 5
+Player 4: MCTSv3AI1 17
+Decks
+LOW 0
+MID 14
+HIGH 11
+Rounds
+32
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 3
+Player 2: MCTSv1AI1 6
+Player 3: MCTSv2AI1 9
+Player 4: MCTSv3AI1 16
+Decks
+LOW 1
+MID 18
+HIGH 14
+Rounds
+28
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 15
+Player 2: MCTSv1AI1 6
+Player 3: MCTSv2AI1 8
+Player 4: MCTSv3AI1 4
+Decks
+LOW 0
+MID 14
+HIGH 15
+Rounds
+29
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 6
+Player 2: MCTSv1AI1 10
+Player 3: MCTSv2AI1 16
+Player 4: MCTSv3AI1 10
+Decks
+LOW 0
+MID 12
+HIGH 15
+Rounds
+32
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 13
+Player 2: MCTSv1AI1 16
+Player 3: MCTSv2AI1 12
+Player 4: MCTSv3AI1 9
+Decks
+LOW 0
+MID 6
+HIGH 14
+Rounds
+34
+Winner(s)
+Player 2: MCTSv1AI1
+Players
+Player 1: MCTSv0AI1 10
+Player 2: MCTSv1AI1 6
+Player 3: MCTSv2AI1 7
+Player 4: MCTSv3AI1 16
+Decks
+LOW 0
+MID 12
+HIGH 13
+Rounds
+32
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 9
+Player 2: MCTSv1AI1 2
+Player 3: MCTSv2AI1 15
+Player 4: MCTSv3AI1 13
+Decks
+LOW 0
+MID 8
+HIGH 16
+Rounds
+35
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 15
+Player 2: MCTSv1AI1 2
+Player 3: MCTSv2AI1 8
+Player 4: MCTSv3AI1 12
+Decks
+LOW 0
+MID 12
+HIGH 15
+Rounds
+32
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 5
+Player 2: MCTSv1AI1 8
+Player 3: MCTSv2AI1 15
+Player 4: MCTSv3AI1 13
+Decks
+LOW 0
+MID 6
+HIGH 17
+Rounds
+33
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 10
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 9
+Player 4: MCTSv3AI1 16
+Decks
+LOW 0
+MID 5
+HIGH 17
+Rounds
+33
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 16
+Player 2: MCTSv1AI1 11
+Player 3: MCTSv2AI1 11
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 5
+HIGH 16
+Rounds
+37
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 15
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 11
+Player 4: MCTSv3AI1 4
+Decks
+LOW 0
+MID 16
+HIGH 12
+Rounds
+36
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 11
+Player 2: MCTSv1AI1 16
+Player 3: MCTSv2AI1 10
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 4
+HIGH 16
+Rounds
+31
+Winner(s)
+Player 2: MCTSv1AI1
+Players
+Player 1: MCTSv0AI1 13
+Player 2: MCTSv1AI1 10
+Player 3: MCTSv2AI1 6
+Player 4: MCTSv3AI1 18
+Decks
+LOW 0
+MID 11
+HIGH 13
+Rounds
+31
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 7
+Player 2: MCTSv1AI1 11
+Player 3: MCTSv2AI1 12
+Player 4: MCTSv3AI1 17
+Decks
+LOW 0
+MID 13
+HIGH 11
+Rounds
+38
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 17
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 7
+Player 4: MCTSv3AI1 11
+Decks
+LOW 0
+MID 11
+HIGH 14
+Rounds
+32
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 6
+Player 2: MCTSv1AI1 8
+Player 3: MCTSv2AI1 3
+Player 4: MCTSv3AI1 17
+Decks
+LOW 0
+MID 16
+HIGH 17
+Rounds
+28
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 12
+Player 2: MCTSv1AI1 4
+Player 3: MCTSv2AI1 15
+Player 4: MCTSv3AI1 1
+Decks
+LOW 1
+MID 19
+HIGH 13
+Rounds
+30
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 0
+Player 2: MCTSv1AI1 7
+Player 3: MCTSv2AI1 8
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 14
+HIGH 16
+Rounds
+32
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 15
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 8
+Player 4: MCTSv3AI1 10
+Decks
+LOW 0
+MID 11
+HIGH 13
+Rounds
+33
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 11
+Player 2: MCTSv1AI1 16
+Player 3: MCTSv2AI1 13
+Player 4: MCTSv3AI1 1
+Decks
+LOW 0
+MID 13
+HIGH 11
+Rounds
+34
+Winner(s)
+Player 2: MCTSv1AI1
+Players
+Player 1: MCTSv0AI1 15
+Player 2: MCTSv1AI1 17
+Player 3: MCTSv2AI1 11
+Player 4: MCTSv3AI1 9
+Decks
+LOW 0
+MID 5
+HIGH 15
+Rounds
+36
+Winner(s)
+Player 2: MCTSv1AI1
+Players
+Player 1: MCTSv0AI1 6
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 15
+Player 4: MCTSv3AI1 4
+Decks
+LOW 0
+MID 19
+HIGH 15
+Rounds
+27
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 16
+Player 2: MCTSv1AI1 13
+Player 3: MCTSv2AI1 16
+Player 4: MCTSv3AI1 9
+Decks
+LOW 0
+MID 4
+HIGH 16
+Rounds
+34
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 13
+Player 2: MCTSv1AI1 11
+Player 3: MCTSv2AI1 17
+Player 4: MCTSv3AI1 14
+Decks
+LOW 0
+MID 12
+HIGH 11
+Rounds
+33
+Winner(s)
+Player 3: MCTSv2AI1
+Players
+Player 1: MCTSv0AI1 10
+Player 2: MCTSv1AI1 6
+Player 3: MCTSv2AI1 6
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 16
+HIGH 15
+Rounds
+28
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 18
+Player 2: MCTSv1AI1 9
+Player 3: MCTSv2AI1 10
+Player 4: MCTSv3AI1 8
+Decks
+LOW 0
+MID 9
+HIGH 15
+Rounds
+31
+Winner(s)
+Player 1: MCTSv0AI1
+Players
+Player 1: MCTSv0AI1 10
+Player 2: MCTSv1AI1 6
+Player 3: MCTSv2AI1 11
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 8
+HIGH 14
+Rounds
+33
+Winner(s)
+Player 4: MCTSv3AI1
+Players
+Player 1: MCTSv0AI1 9
+Player 2: MCTSv1AI1 17
+Player 3: MCTSv2AI1 10
+Player 4: MCTSv3AI1 15
+Decks
+LOW 0
+MID 5
+HIGH 15
+Rounds
+34
+Winner(s)
+Player 2: MCTSv1AI1
